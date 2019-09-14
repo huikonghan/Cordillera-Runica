@@ -3,10 +3,52 @@
 	{
 		"selected_items":
 		[
+			[
+				"col",
+				"col"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3503,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Styles/Styles.css",
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,12 +82,13 @@
 	},
 	"file_history":
 	[
+		"/C/Users/hugo/Documents/GitHub/Cordillera-Runica/index.html",
 		"/C/Users/hugo/Documents/GitHub/project/test.html",
 		"/C/Users/hugo/Documents/GitHub/project/.gitattributes"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -59,6 +102,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"75e3dd",
+			" \n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -76,14 +121,72 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3086,
+								3086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Styles/Styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -120,7 +223,7 @@
 	"project": ".gitattributes.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
