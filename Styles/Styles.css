@@ -1,28 +1,25 @@
-body{
-	background: cyan;
-}	
+.left-col{
+	background-color: #003170 ; 
+	max-width: 100%;
 
-
-
-p{
-	font-size: 80px;
 }
 
-
-
-h1{
-	text-align: center;
-	color: gold;
-	font-family: 'Modak', cursive;
-}
-
-a{
-	font-size: 50px;
+.right-col{
+	background-color: black ; 
+	max-width: 100%;
 }
 
 img{
+	max-width: 100%;
 
-	margin-top:30px;
-	margin-bottom: 30px;
-	}
 
+}
+
+footer {
+	background-color: purple;
+}
+
+.social-icon{
+	height: 60px;
+
+}
