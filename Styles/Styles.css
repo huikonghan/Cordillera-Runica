@@ -1,0 +1,28 @@
+body{
+	background: cyan;
+}	
+
+
+
+p{
+	font-size: 80px;
+}
+
+
+
+h1{
+	text-align: center;
+	color: gold;
+	font-family: 'Modak', cursive;
+}
+
+a{
+	font-size: 50px;
+}
+
+img{
+
+	margin-top:30px;
+	margin-bottom: 30px;
+	}
+
